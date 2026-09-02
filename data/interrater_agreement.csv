@@ -1,0 +1,15 @@
+arm,stage,metric,value,n_records
+bibliometric,study selection,Fleiss kappa (3 raters),0.983,1523
+bibliometric,study selection,Cohen kappa R1-R2,0.977,1523
+bibliometric,study selection,Cohen kappa R1-R3,0.977,1523
+bibliometric,study selection,Cohen kappa R2-R3,0.995,1523
+bibliometric,study selection,observed agreement,0.996,1523
+meta-analysis,study selection,Fleiss kappa (3 raters),0.973,204
+meta-analysis,study selection,Cohen kappa R1-R2,0.96,204
+meta-analysis,study selection,Cohen kappa R1-R3,0.96,204
+meta-analysis,study selection,Cohen kappa R2-R3,1.0,204
+meta-analysis,study selection,observed agreement,0.987,204
+meta-analysis,risk of bias,Fleiss kappa (3 assessors),0.13,76
+meta-analysis,risk of bias,Cohen kappa R1-R2,0.17,76
+meta-analysis,risk of bias,Cohen kappa R1-R3,0.144,76
+meta-analysis,risk of bias,Cohen kappa R2-R3,0.71,76

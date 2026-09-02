@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "Anthocyanins and blood pressure in adults: data and analysis code"
+message: "If you use this material, please cite the manuscript and this archived release."
+type: software
+authors:
+  - family-names: Trejo-Rodríguez
+    given-names: Miguel Ángel
+    orcid: "https://orcid.org/0000-0001-8251-6665"
+    affiliation: "Facultad de Estudios Superiores Cuautitlán, Universidad Nacional Autónoma de México"
+  - family-names: Ortiz-Flores
+    given-names: Miguel Ángel
+  - family-names: Hidalgo Pérez Tejada
+    given-names: Emma I.
+  - family-names: Sampieri-Cabrera
+    given-names: Raúl
+  - family-names: Castillo-Henkel
+    given-names: Enrique F.
+  - family-names: Aceves-Hernández
+    given-names: Juan M.
+  - family-names: López-Mayorga
+    given-names: Ruth M.
+  - family-names: Fonseca-Coronado
+    given-names: Salvador
+repository-code: "https://github.com/USUARIO/anthocyanins-bp"
+license: MIT
+version: 1.0.0
+date-released: "2026-08-07"
+keywords:
+  - anthocyanins
+  - blood pressure
+  - hypertension
+  - meta-analysis
+  - bibliometrics

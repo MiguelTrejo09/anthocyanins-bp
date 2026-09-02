@@ -1,0 +1,27 @@
+arm,stage,n
+bibliometric,Records identified - Web of Science,885
+bibliometric,Records identified - Scopus,1184
+bibliometric,Records identified - PubMed,512
+bibliometric,Total records identified,2581
+bibliometric,Duplicates removed - exact DOI,1040
+bibliometric,Duplicates removed - fuzzy title and year,18
+bibliometric,Records after deduplication,1523
+bibliometric,Records screened,1523
+bibliometric,Records excluded at screening,1288
+bibliometric,Documents included in bibliometric analysis,235
+meta-analysis,Records identified - PubMed with RCT filter,84
+meta-analysis,Records identified - CENTRAL,204
+meta-analysis,Total records identified,288
+meta-analysis,Duplicates removed,84
+meta-analysis,Records after deduplication,204
+meta-analysis,Records screened,204
+meta-analysis,Records excluded at screening,115
+meta-analysis,Full texts assessed for eligibility,89
+meta-analysis,Excluded at full text,9
+meta-analysis,Trials eligible,80
+meta-analysis,Excluded at extraction stage,40
+meta-analysis,Trials with an active comparator (analysed separately),1
+meta-analysis,Trials contributing to the pooled analysis,39
+meta-analysis,Independent comparisons,41
+meta-analysis,Comparisons for systolic blood pressure,40
+meta-analysis,Comparisons for diastolic blood pressure,37

@@ -1,0 +1,78 @@
+study_id,author,year,design,corr_r,shared_ctrl_id,source,form,anthocyanin_dose_mg_day,dose_quantified,duration_weeks,duration_band,bp_status,population,outcome,n_int,mean_int,sd_int,n_ctrl,mean_ctrl,sd_ctrl,rob2_overall,notes
+1,Wood,2023,parallel,,,blueberry,food,302,y,12,long,normotensive,older adults,SBP,27,0,6.3,27,3.59,6.3,some concerns,[EFFECT RECOVERED] between-group MD and 95% CI reported without arm-level means. SE obtained from the interval width; SD obtained as SE/sqrt(1/n1+1/n2). Means coded as 0 and -MD so their difference reproduces the reported effect.
+2,Chiu,2022,crossover,,,roselle,juice,330,y,26,long,hypertensive,adults,SBP,39,137.28,15.2,39,139.82,12.86,some concerns,"POST Table 2, 6 months."
+2,Chiu,2022,crossover,,,roselle,juice,330,y,26,long,hypertensive,adults,DBP,39,88.56,12.69,39,91.95,10.51,some concerns,POST Table 2.
+4,Arisi,2023,parallel,,,acai-jucara,juice,294,y,12,long,normotensive,overweight adults,SBP,30,116.5,10.5,25,118.6,12.1,some concerns,POST Table 3.
+4,Arisi,2023,parallel,,,acai-jucara,juice,294,y,12,long,normotensive,overweight adults,DBP,30,76.3,7.7,25,77.8,7,some concerns,POST Table 3.
+5,Shan,2023,crossover,,,NZBC,extract,210,y,0,acute,normotensive,physically active,SBP,15,-5.6,6.4,15,-3.5,6,some concerns,CHANGE from baseline 2h post-exercise at rest.
+6,Ahles,2026,parallel,,,aronia,extract,40,y,6,medium,normotensive,older overweight,SBP,30,125,17,30,127,13,low,POST Table 2.
+6,Ahles,2026,parallel,,,aronia,extract,40,y,6,medium,normotensive,older overweight,DBP,30,79,8,30,79,8,low,POST Table 2.
+7,Zhu,2011,parallel,,,purified,purified,320,y,12,long,normotensive,hypercholesterolemic,SBP,73,119.5,12.5,73,123.8,15,some concerns,POST Table 1.
+7,Zhu,2011,parallel,,,purified,purified,320,y,12,long,normotensive,hypercholesterolemic,DBP,73,82.8,10.5,73,81.2,9.1,some concerns,POST Table 1.
+8,Amini,2025,crossover,,,blackcurrant,juice,711,y,0,acute,normotensive,healthy middle-aged,SBP,23,0.2,6.2,23,1.5,4.8,some concerns,CHANGE 6h. SD derived as SEM x sqrt(n).
+8,Amini,2025,crossover,,,blackcurrant,juice,711,y,0,acute,normotensive,healthy middle-aged,DBP,23,-3.6,4.3,23,-2.7,3.4,some concerns,CHANGE 6h. SD derived as SEM x sqrt(n).
+9,Li,2020,crossover,,,blood orange,juice,96,y,2,short,normotensive,overweight/obese,SBP,15,108,11,15,108,11,some concerns,POST Table 2.
+9,Li,2020,crossover,,,blood orange,juice,96,y,2,short,normotensive,overweight/obese,DBP,15,69,7,15,70,8,some concerns,POST Table 2.
+11,do Rosario,2021,crossover,,,queen garnet plum,juice,200,y,0,acute,normotensive,overweight older,SBP,16,117.7,10.6,16,116.3,12.6,some concerns,"POST Table 4, 2h postprandial."
+11,do Rosario,2021,crossover,,,queen garnet plum,juice,200,y,0,acute,normotensive,overweight older,DBP,16,66.6,5.5,16,67.4,7.3,some concerns,POST Table 4.
+12,Hassellund,2012,crossover,,,medox,purified,640,y,4,short,prehypertensive,prehypertensive men,SBP,27,135,10.4,27,133,10.4,some concerns,POST Table 2. SD derived as SEM x sqrt(n). Shared cohort with ID58 and ID78; only this record contributes.
+12,Hassellund,2012,crossover,,,medox,purified,640,y,4,short,prehypertensive,prehypertensive men,DBP,27,83,5.2,27,82,5.2,some concerns,POST Table 2. SD derived as SEM x sqrt(n).
+13,Tucci,2024,crossover,,,blueberry,food,480,y,0,acute,normotensive,older adults,SBP,16,117,6,16,118,6,some concerns,"POST Table 2, 2h post-ingestion."
+13,Tucci,2024,crossover,,,blueberry,food,480,y,0,acute,normotensive,older adults,DBP,16,75,4,16,76,4,some concerns,POST Table 2.
+15,Cook,2020,crossover,,,NZBC,extract,210,y,1,acute,normotensive,older adults,SBP,14,130,12,14,136,14,some concerns,"POST Figure 2-3, 7 days. SDs reported in the figure legend."
+15,Cook,2020,crossover,,,NZBC,extract,210,y,1,acute,normotensive,older adults,DBP,14,78,6,14,84,11,some concerns,POST Figure 3.
+19,Kimble,2021,parallel,,,montmorency cherry,juice,72,y,4,short,normotensive,healthy adults,SBP,12,127.5,16.4,11,121.8,11.1,some concerns,"POST Table 2, 4 weeks."
+19,Kimble,2021,parallel,,,montmorency cherry,juice,72,y,4,short,normotensive,healthy adults,DBP,12,66.8,6.3,11,63.3,7.9,some concerns,POST Table 2.
+42,Curtis,2009,parallel,,,elderberry,extract,500,y,12,long,normotensive,postmenopausal women,SBP,26,124,13,26,124,15,some concerns,POST Table 1.
+42,Curtis,2009,parallel,,,elderberry,extract,500,y,12,long,normotensive,postmenopausal women,DBP,26,77,7,26,80,10,some concerns,POST Table 1.
+46,Riso,2013,crossover,,,wild blueberry,food,375,y,6,medium,normotensive,CVD risk males,SBP,18,122,16,18,120,16,some concerns,POST Table 4.
+46,Riso,2013,crossover,,,wild blueberry,food,375,y,6,medium,normotensive,CVD risk males,DBP,18,81.4,8.8,18,78.8,8.5,some concerns,POST Table 4.
+47,Cheng,2024,parallel,,,wild blueberry,extract,11.1,y,0,acute,normotensive,healthy older,SBP,28,0,9.7,28,4,9.7,low,[EFFECT RECOVERED] difference read from Figure 7; SE obtained from p = 0.038 with n = 28; SD as SE x sqrt(n). Design recorded as parallel because the derived variance already reflects the paired design. Excluded in a sensitivity analysis.
+47,Cheng,2024,parallel,,,wild blueberry,extract,11.1,y,0,acute,normotensive,healthy older,DBP,28,0,11.31,28,5,11.31,low,[EFFECT RECOVERED] SE obtained from p = 0.027 with n = 28. Excluded in a sensitivity analysis.
+49,Kimble,2021,parallel,,,tart cherry,extract,71,y,12,long,normotensive,middle-aged adults,SBP,14,117,14,14,118,11,some concerns,"POST Table 3, 3 months."
+49,Kimble,2021,parallel,,,tart cherry,extract,71,y,12,long,normotensive,middle-aged adults,DBP,14,73,9,14,73,8,some concerns,POST Table 3.
+50a,Hillman,2026,parallel,,,tart cherry,juice,,n,4,short,normotensive,healthy adults,SBP,15,122,11,15,119,9,high,POST Table 3. Juice arm against its own placebo. Dose not reported in mg.
+50a,Hillman,2026,parallel,,,tart cherry,juice,,n,4,short,normotensive,healthy adults,DBP,15,72,5,15,76,8,high,POST Table 3. Juice arm.
+50b,Hillman,2026,parallel,,,tart cherry,extract,,n,4,short,normotensive,healthy adults,SBP,15,114,9,15,121,12,high,POST Table 3. Capsule arm against its own placebo.
+50b,Hillman,2026,parallel,,,tart cherry,extract,,n,4,short,normotensive,healthy adults,DBP,15,70,4,15,73,8,high,POST Table 3. Capsule arm.
+51,Dohadwala,2011,crossover,,,cranberry,juice,94,y,4,short,hypertensive,CAD patients,SBP,44,133,18,44,135,18,some concerns,POST Table 3.
+51,Dohadwala,2011,crossover,,,cranberry,juice,94,y,4,short,hypertensive,CAD patients,DBP,44,73,9,44,74,9,some concerns,POST Table 3.
+53,Keane,2016,crossover,,,tart cherry,juice,68,y,0,acute,normotensive,middle-aged adults,SBP,27,-6,2,27,0,2,some concerns,CHANGE: reduccion pico 6+-2 mmHg a 1h (p=0.002). Control codificado como 0 sin cambio. DBP sin cambios reportados.
+55,Chan,2021,crossover,,,bilberry,extract,350,y,4,short,hypertensive,T2D,SBP,20,119.9,11.6,20,121.8,9.3,some concerns,POST Table 2.
+55,Chan,2021,crossover,,,bilberry,extract,350,y,4,short,hypertensive,T2D,DBP,20,74.4,7.9,20,75.6,9.4,some concerns,POST Table 2.
+59,Herrera-Arellano,2007,crossover,,,blueberry,food,348,y,0,acute,normotensive,healthy men,SBP,10,118.6,8.7,10,121.3,8.5,some concerns,"POST Table 4, 1h acute."
+59,Herrera-Arellano,2007,crossover,,,blueberry,food,348,y,0,acute,normotensive,healthy men,DBP,10,73.9,6.1,10,76.3,10.3,some concerns,POST Table 4.
+68,Montanari,2021,crossover,,,NZBC,extract,210,y,1,acute,normotensive,trained cyclists,SBP,13,122,13,13,123,14,some concerns,"POST Table 2, 7 days, at rest."
+68,Montanari,2021,crossover,,,NZBC,extract,210,y,1,acute,normotensive,trained cyclists,DBP,13,68,9,13,69,6,some concerns,POST Table 2.
+69,Asgary,2014,parallel,,,pomegranate,juice,,n,2,short,hypertensive,hypertensive adults,SBP,11,124.55,15.72,11,128,13.17,some concerns,"POST Tables 2-3. Antocianinas 5.8 mg/100 mL, daily dose not calculated."
+69,Asgary,2014,parallel,,,pomegranate,juice,,n,2,short,hypertensive,hypertensive adults,DBP,11,76.36,6.74,11,85,8.5,some concerns,POST Tables 2-3.
+72,Zingales,2025,crossover,,,mixed fruit,food,,n,8,medium,normotensive,low fruit consumers,SBP,38,119,12.3,38,119,12.3,some concerns,POST Table 1. SD converted from SEM.
+72,Zingales,2025,crossover,,,mixed fruit,food,,n,8,medium,normotensive,low fruit consumers,DBP,38,77,12.3,38,77,12.3,some concerns,POST Table 1. SD converted from SEM.
+76,Stote,2020,parallel,,,blueberry,food,,n,8,medium,hypertensive,T2D men,SBP,26,126,15.3,26,126,15.3,some concerns,"POST Table 5. SD converted from SEM. 22 g polvo, anthocyanin content not quantified."
+76,Stote,2020,parallel,,,blueberry,food,,n,8,medium,hypertensive,T2D men,DBP,26,75,5.1,26,75,5.1,some concerns,POST Table 5. SD converted from SEM.
+77,Bell,2019,crossover,,,haskap,extract,400,y,0,acute,normotensive,older adults,DBP,19,73.73,5.6,19,75.5,5.6,some concerns,POST Table 2. SD converted from SEM. p=0.012. SBP sin SD reportada.
+83,Draijer,2015,crossover,,,grape-wine,extract,,n,4,short,hypertensive,hypertensive adults,SBP,28,135.9,6.9,28,138.9,6.9,some concerns,"POST Table 1, 24-hour ambulatory blood pressure. SD converted from SEM. p<0.05. 800 mg total polyphenols."
+83,Draijer,2015,crossover,,,grape-wine,extract,,n,4,short,hypertensive,hypertensive adults,DBP,28,84.7,4.2,28,86.6,4.2,some concerns,POST Table 1. SD converted from SEM.
+85a,Khan,2014,parallel,,K85,blackcurrant,juice,36,y,6,medium,normotensive,healthy low fruit consumers,SBP,21,130,17,21,128,15,some concerns,POST Table 2. Low-dose arm. Shares the placebo with the high-dose arm -> shared_ctrl_id K85.
+85a,Khan,2014,parallel,,K85,blackcurrant,juice,36,y,6,medium,normotensive,healthy low fruit consumers,DBP,21,82,15,21,81,15,some concerns,POST Table 2. Low-dose arm.
+85b,Khan,2014,parallel,,K85,blackcurrant,juice,143,y,6,medium,normotensive,healthy low fruit consumers,SBP,22,127,16,21,128,15,some concerns,POST Table 2. High-dose arm (14.3 mg/100 mL x 250 mL x 4 = 143 mg/days). Shares the placebo -> K85.
+85b,Khan,2014,parallel,,K85,blackcurrant,juice,143,y,6,medium,normotensive,healthy low fruit consumers,DBP,22,79,15,21,81,15,some concerns,POST Table 2. High-dose arm.
+88,Finkel,2013,crossover,,,purple corn,extract,18,y,3,short,prehypertensive,prehypertensive adults,SBP,30,130.7,6.6,30,138.9,6.6,some concerns,POST Table 3. 300 mg extract -> 18 mg antocianinas/days (6%).
+88,Finkel,2013,crossover,,,purple corn,extract,18,y,3,short,prehypertensive,prehypertensive adults,DBP,30,80.2,6.1,30,87.7,6.1,some concerns,POST Table 3.
+23,Desai,2020,crossover,,,tart cherry,juice,270,y,1,acute,normotensive,healthy adults,SBP,12,127,11,12,133,8,some concerns,POST Table 5. Placebo 133+-8 / 81+-7. SD reported.
+23,Desai,2020,crossover,,,tart cherry,juice,270,y,1,acute,normotensive,healthy adults,DBP,12,76,6,12,81,7,some concerns,POST Table 5. Placebo 133+-8 / 81+-7. SD reported.
+30,Rodriguez-Mateos,2013,crossover,,,blueberry,food,310,y,0,acute,normotensive,healthy men,SBP,10,130,9.5,10,130,9.5,some concerns,"POST Table 4. SD converted from SEM (3 x sqrt(10)). Anthocyanin dose 310 mg, corresponding to 766 mg total polyphenols."
+30,Rodriguez-Mateos,2013,crossover,,,blueberry,food,310,y,0,acute,normotensive,healthy men,DBP,10,67,9.5,10,67,12.6,some concerns,"POST Table 4. SD converted from SEM (3 x sqrt(10)). Anthocyanin dose 310 mg, corresponding to 766 mg total polyphenols."
+33,Nishimura,2018,parallel,,,green tea Sunrouge,food,11.2,y,12,long,hypertensive,healthy adults,SBP,39,132.9,14.3,39,126.7,10.5,some concerns,POST Table 3. DBP SD converted from SEM (1.5 x sqrt(39); control 1.4 x sqrt(39)). Blood pressure increased with Sunrouge.
+33,Nishimura,2018,parallel,,,green tea Sunrouge,food,11.2,y,12,long,hypertensive,healthy adults,DBP,39,85.5,9.4,39,78.9,8.7,some concerns,POST Table 3. DBP SD converted from SEM (1.5 x sqrt(39); control 1.4 x sqrt(39)). Blood pressure increased with Sunrouge.
+34,Lynn,2014,parallel,,,tart cherry,juice,273.5,y,6,medium,normotensive,healthy adults,SBP,25,110.2,12.58,25,113.36,11.88,some concerns,POST Table 2. SD reported. No significant effect on blood pressure or PWV.
+34,Lynn,2014,parallel,,,tart cherry,juice,273.5,y,6,medium,normotensive,healthy adults,DBP,25,69.2,9.86,25,69.9,7.62,some concerns,POST Table 2. SD reported. No significant effect on blood pressure or PWV.
+35,McAnulty,2014,parallel,,,blueberry,food,,n,6,medium,normotensive,sedentary adults,SBP,13,114.15,11.47,13,112.92,8.42,some concerns,POST Table. Dose equivalent to 250 g fresh fruit; anthocyanin content not quantified.
+35,McAnulty,2014,parallel,,,blueberry,food,,n,6,medium,normotensive,sedentary adults,DBP,13,73.07,5.8,13,74.15,9.77,some concerns,POST Table. Dose equivalent to 250 g fresh fruit; anthocyanin content not quantified.
+37,Okamoto,2020,crossover,,,NZBC,extract,210,y,1,acute,hypertensive,adults,SBP,14,133,11.2,14,142,15.0,some concerns,POST Table 2. SD converted from SEM (3 x sqrt(14) and 2 x sqrt(14)). Significant reduction in central and brachial SBP.
+37,Okamoto,2020,crossover,,,NZBC,extract,210,y,1,acute,hypertensive,adults,DBP,14,76,7.5,14,79,11.2,some concerns,POST Table 2. SD converted from SEM (3 x sqrt(14) and 2 x sqrt(14)). Significant reduction in central and brachial SBP.
+39,Yang,2025,parallel,,,purified,purified,320,y,12,long,normotensive,adults,SBP,46,123.8,11.4,46,125.1,11.1,low,"POST Table 4. SD reported. Doses of 160, 320 and 640 mg/day; no dose-response effect."
+39,Yang,2025,parallel,,,purified,purified,320,y,12,long,normotensive,adults,DBP,46,71.9,9.3,46,71.8,8.0,low,"POST Table 4. SD reported. Doses of 160, 320 and 640 mg/day; no dose-response effect."
+40,Parklak,2024,crossover,,,mulberry,juice,35.34,y,6,medium,hypertensive,obese adults,SBP,12,127.77,6.64,12,135.11,7.68,some concerns,"POST Figure 3. SD reported. Significant reduction in SBP, DBP and MAP."
+40,Parklak,2024,crossover,,,mulberry,juice,35.34,y,6,medium,hypertensive,obese adults,DBP,12,86.77,4.6,12,93.67,4.97,some concerns,"POST Figure 3. SD reported. Significant reduction in SBP, DBP and MAP."
+25,Igwe,2017,crossover,,,queen garnet plum,juice,369,y,0,acute,normotensive,older adults,SBP,12,-12.83,16.51,12,0,16.51,some concerns,"CHANGE from baseline at 2 h; mean reduction 12.83 mmHg (SD 16.51, p = 0.001). Control coded as no change. DBP reported without a dispersion measure."
